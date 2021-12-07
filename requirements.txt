@@ -1,0 +1,4 @@
+Flask==2.0.0
+ibm_db_sa==0.3.7
+pandas==1.2.4
+requests==2.25.1
